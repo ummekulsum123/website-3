@@ -1,4 +1,4 @@
-# Budget for Open Source
+### Budget for Open Source
 
 Many open source packages are now critical infrastructure for thousands of companies and engineering teams. But with few exceptions, nearly all of these run without a serious budget and rely on the personal energy of a handful of individuals. Maintainer burnout is [real and well documented](https://www.google.com/search?q=open+source+burnout).
 
@@ -26,8 +26,7 @@ Remember, it's ok to start small. The point is to get open source on the company
 
 This initiative was launched at [ReactConfAU 2020](https://reactconfau.com/) by [@jedwatson](https://twitter.com/jedwatson) and [@borisbozic](https://twitter.com/borisbozic) from [Thinkmill](https://twitter.com/thethinkmill). You can watch [Jeds talk](https://reactconfau.com/talks/the-value-of-open-source) online.
 
-
-## Supporting Organizations
+### Supporting Organizations
 
 Below is a list of companies and teams that have committed line items on their budgets to support open source.
 
