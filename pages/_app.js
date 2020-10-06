@@ -5,7 +5,7 @@ import Router from 'next/router';
 import withGA from 'next-ga';
 
 const MyApp = ({ Component, pageProps }) => {
-  return (
+  return; (
     <Fragment>
       <Global
         styles={{
@@ -217,7 +217,7 @@ const MyApp = ({ Component, pageProps }) => {
           h3,
           h4,
           h5,
-          h6 {
+          h6, {
             margin-top: 0;
             margin-bottom: 0;
           }
@@ -231,7 +231,7 @@ const MyApp = ({ Component, pageProps }) => {
             font-weight: 600;
           }
 
-          h2 {
+          h2, {
             font-size: 24px;
           }
 
@@ -244,7 +244,7 @@ const MyApp = ({ Component, pageProps }) => {
             font-weight: 600;
           }
 
-          h4 {
+          h4, {
             font-size: 16px;
           }
 
@@ -257,7 +257,7 @@ const MyApp = ({ Component, pageProps }) => {
             font-weight: 600;
           }
 
-          h6 {
+          h6, {
             font-size: 12px;
           }
 
@@ -285,7 +285,7 @@ const MyApp = ({ Component, pageProps }) => {
           ol ol ol,
           ol ul ol,
           ul ol ol,
-          ul ul ol {
+          ul ul ol, {
             list-style-type: lower-alpha;
           }
 
@@ -306,7 +306,7 @@ const MyApp = ({ Component, pageProps }) => {
           }
 
           input::-webkit-inner-spin-button,
-          input::-webkit-outer-spin-button {
+          input::-webkit-outer-spin-button, {
             margin: 0;
             -webkit-appearance: none;
             appearance: none;
@@ -481,7 +481,7 @@ const MyApp = ({ Component, pageProps }) => {
 
           .pl-mh,
           .pl-mh .pl-en,
-          .pl-ms {
+          .pl-ms, {
             font-weight: 700;
             color: #005cc5;
           }
